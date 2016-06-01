@@ -1,0 +1,17 @@
+Bias 0.020752 V
+Bias (corrected) 0.020626 V
+Current 1.26 nA
+Current factor 1
+Date 2016-04-11 15:58:20
+Gain 1000
+Mode 0
+Postprocessing 3
+R_Nr 0
+Scan duration 72.72 s
+STM 5
+Tilt 0 deg
+Unit number 1
+Version 27
+X-Offset 60 nm
+Y-Offset -277.8 nm
+Z-Scale 50 V

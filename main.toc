@@ -1,0 +1,26 @@
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Graphene}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Graphene}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Graphene on Ir}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Hydrogenation of graphene using vibrationally excited deuterium}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}Hydrogenation of graphene using atomic deuterium}{4}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Techniques}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Scanning Tunneling Microscopy - STM}{5}{section.3.1}
+\contentsline {section}{\numberline {3.2}Temperature Programmed Desorption - TPD}{6}{section.3.2}
+\contentsline {section}{\numberline {3.3}Low Energy Electron Diffraction - LEED}{6}{section.3.3}
+\contentsline {section}{\numberline {3.4}Raman Spectroscopy}{6}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}Experimental Setup}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}The Coal Chamber}{7}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Turbo pump}{7}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}H2 cracker - Vibrationally excited molecules}{8}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}STM}{8}{section.4.2}
+\contentsline {section}{\numberline {4.3}TPD}{8}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Results}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Graphene on Ir}{11}{section.5.1}
+\contentsline {section}{\numberline {5.2}D2 on graphene}{12}{section.5.2}
+\contentsline {section}{\numberline {5.3}TPD measurements - Atomic and molecular D2}{13}{section.5.3}
+\contentsline {section}{\numberline {5.4}Bilayered graphene on Ir}{14}{section.5.4}
+\contentsline {section}{\numberline {5.5}LEED of bilayered sample}{14}{section.5.5}
+\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{15}{chapter.6}
+\contentsline {appendix}{\chapternumberline {A}Additional figures}{17}{appendix.A}
+\contentsline {chapter}{Bibliography}{19}{section*.13}
