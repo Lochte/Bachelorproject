@@ -18,9 +18,14 @@
 \contentsline {chapter}{\chapternumberline {5}Results}{11}{chapter.5}
 \contentsline {section}{\numberline {5.1}Graphene on Ir}{11}{section.5.1}
 \contentsline {section}{\numberline {5.2}D2 on graphene}{12}{section.5.2}
-\contentsline {section}{\numberline {5.3}TPD measurements - Atomic and molecular D2}{13}{section.5.3}
-\contentsline {section}{\numberline {5.4}Bilayered graphene on Ir}{14}{section.5.4}
-\contentsline {section}{\numberline {5.5}LEED of bilayered sample}{14}{section.5.5}
-\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{15}{chapter.6}
-\contentsline {appendix}{\chapternumberline {A}Additional figures}{17}{appendix.A}
-\contentsline {chapter}{Bibliography}{19}{section*.13}
+\contentsline {subsection}{\numberline {5.2.1}Full hydrogen coverage}{12}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}1745\degree C dose}{13}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}1593\degree C dose}{14}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}1343\degree C dose}{15}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}TPD measurements - Atomic and molecular D2}{16}{section.5.3}
+\contentsline {section}{\numberline {5.4}Bilayered graphene on Ir}{19}{section.5.4}
+\contentsline {section}{\numberline {5.5}LEED of bilayered sample}{19}{section.5.5}
+\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}conclusion and future perspectives}{21}{section.6.1}
+\contentsline {appendix}{\chapternumberline {A}Additional figures}{23}{appendix.A}
+\contentsline {chapter}{Bibliography}{25}{section*.17}

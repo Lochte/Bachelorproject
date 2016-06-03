@@ -42,9 +42,10 @@ figure
 TPDplottemp('GrIr1740CD2_2504',kalifit.p1,kalifit.p2,'r',2)
 hold on
 TPDplottemp('GrIr1740CD2longanneal',kalifit.p1,kalifit.p2,'g',2)
+legend({'Gr/Ir-1740C dose-D2' 'Gr/Ir-1740C dose-D2-after long anneal'},'Location','NorthWest')
+print(['GrIr1740CD2longanneal' 'temp'],'-dpng','-r200')
 
 
-legend({'Gr/Ir - 1740C dose - D2' 'Gr/Ir - 1740C dose - D2 - after long anneal'},'Location','NorthWest')
 figure
 TPDplot('050516IrSorenD2dose1hour',kalifit.p1,kalifit.p2)
 
@@ -58,11 +59,19 @@ figure
 TPDplottemp('050516IrSorenD2dose1hour2',kalifit.p1,kalifit.p2,'b',2)
 hold on 
 TPDplottemp('050516IrSorenD2dose1hour',kalifit.p1,kalifit.p2,'g',2)
+legend({'Gr/Ir-1740C dose-D2-#1' 'Gr/Ir-1740C dose-D2-#2'},'Location','NorthWest')
+print(['050516IrSorenD2dose1hour' 'temp'],'-dpng','-r200')
+
+
 
 figure
 TPDplottemp('050516IrSorenDdose1hour2',kalifit.p1,kalifit.p2,'b',2)
 hold on
 TPDplottemp('050516IrSorenDdose1hour',kalifit.p1,kalifit.p2,'g',2)
+legend({'Gr/Ir-1740C dose-D-#1' 'Gr/Ir-1740C dose-D-#2'},'Location','NorthWest')
+print(['050516IrSorenDdose1hour' 'temp'],'-dpng','-r200')
+
+
 
 figure
 peakfit('050516IrSorenD2dose1hour2',kalifit.p1,kalifit.p2,'b',2,723,2)
@@ -80,8 +89,7 @@ peakfit('GrIr1740CD2_2504',kalifit.p1,kalifit.p2,'r',2,750,1)
 figure
 peakfit('050516IrSorenDdose1hour2',kalifit.p1,kalifit.p2,'b',2,500,1)
 
-
-
+%% Integrate graph. Return area
 
 
 end

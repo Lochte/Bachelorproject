@@ -1,4 +1,5 @@
 \chapter{Experimental Setup}
+\label{cha:procedure}
 
 \section{The Coal Chamber}
 
@@ -15,13 +16,15 @@ Vibrationally excited molecules are produced using a H$_2$ cracker.
 
 \section{STM}
 
+The STM was used to get a visualization of the coverage of hydrogen on the sample surface, and to analyse the sample between the different experiments.
 
+
+write things about linescans, calibration and FFT/noise removal.
 
 \section{TPD}
 
 A mass spec is connected to the UHV chamber, and this was used to investigate the desorption of deuterium from the sample surface. The sample was positioned in the manipulator as the experiments were carried out. From here the nozzle of the mass spec was brought within millimeters of the sample. The temperature was logged together with the amount of deuterium detected by the mass spec. The mass spec was set to count masses of 4 amu, in order to exclude other molecules than deuterium. This setup was made with the computer program 'MASsoft' by Hiden Analytical.\\
 A Eurotherm 2704 controller was used to control the current going to the filament in the manipulator, in order to manage the temperature of the sample. The controller was programmed to ramp the sample temperature from 300K to 900K at a rate of 1K per second. At maximum temperature the eurotherm was set to rest for 30s, and then slowly decrease the temperature to a final temperature of 300K. This cycle was performed each time a TPD measurement was carried out. During this procedure most of the deuterium on the surface should be desorped from the sample.\\
-The temperature of the sample was measured on the backside by a thermocouple, and hence the feedback was not an actual measure of the surface temperature. An optical pyrometer was therefore used to measure the actual temperature of the surface alongside with the logged temperature by MASsoft, in order to calibrate the system. Since the sample is Iridium , the emissivity of the pyrometer was set to 23\%.The acquired data is shown in figure \ref{TPDcalibration}, where the temperature of the surface versus the thermocouple is plotted. The calibration factors obtained from the fit is the following:
 \begin{align*}
   T_{surface} = T_{TC} * 0.7921 + 131.2
 \end{align*}
