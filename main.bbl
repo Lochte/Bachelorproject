@@ -3,6 +3,20 @@
 \bibitem{Line}
 Line Kyhl.
 
+\bibitem{e40134a5a1aa4cb69ba806c02cd8e327}
+Richard Balog, Bjarke Jørgensen, Louis Nilsson, Mie Andersen, Emile Rienks,
+  Marco Bianchi, Mattia Fanetti, Erik Laegsgaard, Alessandro Baraldi, Silvano
+  Lizzit, Zeljko Sljivancanin, Flemming Besenbacher, Bjørk Hammer, {Thomas G}
+  Pedersen, Philip Hofmann, and Liv Hornekaer.
+\newblock Bandgap opening in graphene induced by patterned hydrogen adsorption.
+\newblock {\em Nature Materials}, 9(4):315--319, 4 2010.
+
+\bibitem{PhysRevB.93.115403}
+Line Kyhl, Richard Balog, Thierry Angot, Liv Hornek\ae{}r, and R\'egis Bisson.
+\newblock Hydrogenated graphene on ir(111): A high-resolution electron energy
+  loss spectroscopy study of the vibrational spectrum.
+\newblock {\em Phys. Rev. B}, 93:115403, Mar 2016.
+
 \bibitem{STMbinnig}
 Gerd Binnig and Heinrich Rohrer.
 \newblock Scanning tunneling microscopy\char22{}from birth to adolescence.
@@ -19,5 +33,16 @@ Johann Coraux, Alpha~T N'Diaye, Martin Engler, Carsten Busse, Dirk Wall, Niemma
 Alpha~T N'Diaye, Johann Coraux, Tim~N Plasa, Carsten Busse, and Thomas Michely.
 \newblock Structure of epitaxial graphene on ir(111).
 \newblock {\em New Journal of Physics}, 10(4):043033, 2008.
+
+\bibitem{Jakobunpublished}
+Jakob Jørgensen, Antonija~Grubisic Cabo, Line~Kyhl Hansen, Richard Balog,
+  Philip Hofmann, and Liv Hornekær.
+\newblock Unpublished.
+
+\bibitem{PhysRevB.79.195429}
+J.~\ifmmode~\check{C}\else \v{C}\fi{}ervenka and C.~F.~J. Flipse.
+\newblock Structural and electronic properties of grain boundaries in graphite:
+  Planes of periodically distributed point defects.
+\newblock {\em Phys. Rev. B}, 79:195429, May 2009.
 
 \end{thebibliography}

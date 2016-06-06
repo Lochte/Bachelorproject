@@ -1,20 +1,16 @@
-\chapter{Experimental Setup}
+\chapter{Experimental Approach}
 \label{cha:procedure}
 
 \section{The Coal Chamber}
 
-  The experiments is carried out under UHV (ultra high vacuum) conditions. This is crucial because contaminants easily can absorb to the surface which ruins the quality of the gathered data. During this project the vacuum chamber named 'The Coal Chamber' is used which is one of many vacuum chambers in the SDL lab.\\
+  The experiments are carried out under UHV (ultra high vacuum) conditions. This is crucial because contaminants easily can adsorb to the surface which ruins the quality of the gathered data. During this project the vacuum chamber named 'The Coal Chamber' is used which is one of many vacuum chambers in the SDL lab.\\
   The equipment mounted on The Coal Chamber, which is used in this study, is described in the following section along with the experimental approach. The sample is introduced to the coal chamber from a loadlock where the sample is attached to a transfer arm. Transfer of the sample from the loadlock to the main chamber takes place as the pressure in the loadlock is reduced sufficiently by a turbo pump. In the main chamber a manipulator is apparent in the center from where the sample can be transferred to the STM by a wobble stick. A filament lies behind the sample in the manipulator, which is used during anneals.
 
-\subsection{Turbo pump}
+% \subsection{Turbo pump}
+%
+%  In order to achieve proper UHV conditions a turbo pump is needed in addition to the roughing pump. The turbo pump is directly connected to the vacuum chamber and consists of a series of rotor blades. Each of these adds momentum to the remaining gas molecules that collide with the blades and hence removes these from the chamber. In order to function properly these rotor blades spins up to 80.000 RPM.\cite{hofTurbo}
 
-  In order to achieve proper UHV conditions a turbo pump is needed in addition to the roughing pump. The turbo pump is directly connected to the vacuum chamber and consists of a series of rotor blades. Each of these adds momentum to the remaining gas molecules that collide with the blades and hence removes these from the chamber. In order to function properly these rotor blades spins up to 80.000 RPM.\cite{hofTurbo}
-
-\subsection{H2 cracker - Vibrationally excited molecules}
-
-Vibrationally excited molecules are produced using a H$_2$ cracker.
-
-\section{STM}
+\section{STM imaging and D$_2$ dosage}
 
 The STM was used to get a visualization of the coverage of hydrogen on the sample surface, and to analyse the sample between the different experiments.
 
@@ -34,12 +30,13 @@ A Eurotherm 2704 controller was used to control the current going to the filamen
   \caption{Calibration of the temperature during the TPD measurements. The temperature of the surface measured by an optical pyrometer is plotted against the thermocouple temperature.}
   \label{TPDcalibration}
 \end{figure}
-In figure \ref{TPD:example} the data obtained from a typical TPD measurement is shown. Since the desorption of deuterium from the surface is investigated, a mass of 4 amu is monitored along with the temperature. It is seen that the temperature follows the linear trend except for the extremities of the temperature interval where some fluctuations start to happen. Since the temperature is controlled and logged with the Eurotherm controller, it is possible to plot the counts of deuterium against the temperature. These plots are presented in chapter \ref{cha:results}.\\
+In figure \ref{TPD:example} the data obtained from a typical TPD measurement is shown. Since the desorption of D$_2$ from the surface is investigated, a mass of 4 amu is monitored along with the temperature. It is seen that the temperature follows has a linear ramp except for the extremities of the temperature interval where some fluctuations start to happen. A different sample of Gr/Ir was used later on in the project, where the thermocouple seemed to have a loose connection. The temperature reading from this thermocouple dropped out at some points, and seemed unstable. Since the thermocouple was changed, and a new sample holder was used, the Eurotherm controller parameters needed to be autotuned, in order to achieve a linear temperature ramp once again. This caused some problems however, and the results from one of the TPD measurements from this sample can be seen in figure \ref{TPD:fail}. It is seen on figure \ref{TPD:example2} that the temperature ramp is obviously not linear. The jumps in temperature do not seem to be systematic, which might indicate that the thermocouple as well as the controller parameters both had influence on the bad temperature ramp. The influence of the non linear ramp is also seen on the D$_2$ counts, where small peaks appear when the temperature changes rapidly. As seen on figure \ref{TPD:peak2} another peak appears right after the initial due to the jump in temperature. The initial peak was judged to reflect the desorption of hydrogen best, and hence this peak was used, as seen from the green circle. \\
+Since the temperature is controlled and logged with the Eurotherm controller, it is possible to plot the counts of D$_2$ against the temperature. These plots are presented in chapter \ref{cha:results}.\\
 A triple gaussian function was fitted to the datapoints around the peak, in order to determine the temperature belonging to the peak. The peak value was estimated by visual observation, and the datapoints within $\pm$60\degree C are included in the fit. The temperature at the maximum of the fit was determined, and these values are presented in chapter \ref{cha:results} as the peak temperatures. An example of the fit to the peak values is shown in figure \ref{TPD:peak}. From this figure it is seen that the temperature at which the maximum counts is observed, not necessarily corresponds to the correct peak temperature. The green circle in figure \ref{TPD:peak} shows the found peak from which the temperature was gathered.\\
 In order to compare the individual peaks, the background was subtracted from every datapoint. The sample was positioned stationary in front of the nozzle for a period of time before the measurements were carried out. These datapoints were used to calculate a mean background count, which was subtracted.
 
 \begin{figure}[H]
-  \centering
+  \centering 
   \begin{subfigure}[b]{0.45\textwidth}
     \includegraphics[width=\textwidth]{TPD/GrIr1740CD2_2504}
     \caption{}
@@ -50,4 +47,23 @@ In order to compare the individual peaks, the background was subtracted from eve
     \caption{}
     \label{TPD:peak}
   \end{subfigure}
+  \caption{}
+  \label{TPD:win}
+\end{figure}
+
+
+\begin{figure}[H]
+  \centering
+  \begin{subfigure}[b]{0.45\textwidth}
+    \includegraphics[width=\textwidth]{TPD/050516IrSorenD2dose1hour2}
+    \caption{}
+    \label{TPD:example2}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.45\textwidth}
+    \includegraphics[width=\textwidth]{TPD/050516IrSorenD2dose1hour2peak}
+    \caption{}
+    \label{TPD:peak2}
+  \end{subfigure}
+  \caption{}
+  \label{TPD:fail}
 \end{figure}
