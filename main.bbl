@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Line}
 Line Kyhl.
@@ -16,6 +16,12 @@ Line Kyhl, Richard Balog, Thierry Angot, Liv Hornek\ae{}r, and R\'egis Bisson.
 \newblock Hydrogenated graphene on ir(111): A high-resolution electron energy
   loss spectroscopy study of the vibrational spectrum.
 \newblock {\em Phys. Rev. B}, 93:115403, Mar 2016.
+
+\bibitem{aarhusSTM}
+The aarhus stm.
+\newblock
+  \url{http://inano.au.dk/research/research-platforms/nanoanalysis/scanning-tunneling-microscopy/}.
+\newblock Accessed: 2016-06.
 
 \bibitem{STMbinnig}
 Gerd Binnig and Heinrich Rohrer.
@@ -44,5 +50,10 @@ J.~\ifmmode~\check{C}\else \v{C}\fi{}ervenka and C.~F.~J. Flipse.
 \newblock Structural and electronic properties of grain boundaries in graphite:
   Planes of periodically distributed point defects.
 \newblock {\em Phys. Rev. B}, 79:195429, May 2009.
+
+\bibitem{PhysRevLett.50.1998}
+J.~Tersoff and D.~R. Hamann.
+\newblock Theory and application for the scanning tunneling microscope.
+\newblock {\em Phys. Rev. Lett.}, 50:1998--2001, Jun 1983.
 
 \end{thebibliography}
