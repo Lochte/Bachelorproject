@@ -1,31 +1,34 @@
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Graphene}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Graphene}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Graphene on Ir}{3}{section.2.2}
-\contentsline {section}{\numberline {2.3}Hydrogenation of graphene using atomic deuterium}{3}{section.2.3}
-\contentsline {section}{\numberline {2.4}Hydrogenation of graphene using vibrationally excited deuterium}{5}{section.2.4}
+\contentsline {chapter}{\chapternumberline {2}Graphene}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Graphene}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Graphene on Ir(111)}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Hydrogenation of graphene on Ir(111) using atomic deuterium}{4}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Formation of Vibrationally Excited Deuterium}{5}{subsection.2.3.1}
 \contentsline {chapter}{\chapternumberline {3}Techniques}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Scanning Tunnelling Microscopy - STM}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Temperature Programmed Desorption - TPD}{8}{section.3.2}
-\contentsline {section}{\numberline {3.3}Low Energy Electron Diffraction - LEED}{8}{section.3.3}
-\contentsline {chapter}{\chapternumberline {4}Experimental Approach}{9}{chapter.4}
-\contentsline {section}{\numberline {4.1}The Coal Chamber}{9}{section.4.1}
-\contentsline {section}{\numberline {4.2}STM imaging and D$_2$ dosage}{9}{section.4.2}
-\contentsline {section}{\numberline {4.3}TPD}{9}{section.4.3}
-\contentsline {chapter}{\chapternumberline {5}Results}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Graphene on Ir(111)}{13}{section.5.1}
-\contentsline {section}{\numberline {5.2}D$_2$ on graphene}{14}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Full hydrogen coverage}{14}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}1745\degree C dose}{15}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}1593\degree C dose}{16}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}1343\degree C dose}{17}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}TPD measurements}{18}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Atomic and molecular D2}{18}{subsection.5.3.1}
-\contentsline {section}{\numberline {5.4}Graphene bilayered sample}{19}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}TPD of bilayered sample}{20}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}STM images of bilayers}{20}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}LEED of bilayered sample}{22}{subsection.5.4.3}
-\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{25}{chapter.6}
-\contentsline {section}{\numberline {6.1}conclusion and future perspectives}{25}{section.6.1}
-\contentsline {appendix}{\chapternumberline {A}Additional figures}{27}{appendix.A}
-\contentsline {chapter}{Bibliography}{29}{section*.20}
+\contentsline {section}{\numberline {3.1}Scanning Tunneling Microscopy - STM}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Temperature Programmed Desorption - TPD}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Low Energy Electron Diffraction - LEED}{10}{section.3.3}
+\contentsline {chapter}{\chapternumberline {4}Experimental Approach}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}The Coal Chamber}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}STM Imaging and D$_2$ Dosage}{12}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}STM Calibration}{12}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}D$_2$ Dosage}{13}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Sample Annealing and Graphene Repair}{13}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}TPD}{14}{section.4.3}
+\contentsline {chapter}{\chapternumberline {5}Results}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Graphene on Ir(111)}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}D$_2$ on Graphene}{18}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Full Hydrogen Coverage}{18}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}1745\degree C dose}{20}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}1593\degree C dose}{20}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}1343\degree C dose}{21}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}TPD measurements}{22}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Atomic and molecular D2 - single layered sample}{22}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Graphene bilayered sample}{23}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}TPD of bilayered sample}{23}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}STM images of bilayers}{25}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}LEED of bilayered sample}{27}{subsection.5.4.3}
+\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{29}{chapter.6}
+\contentsline {section}{\numberline {6.1}conclusion and future perspectives}{29}{section.6.1}
+\contentsline {appendix}{\chapternumberline {A}Additional figures}{30}{appendix.A}
+\contentsline {chapter}{Bibliography}{31}{section*.25}

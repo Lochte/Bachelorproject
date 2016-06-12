@@ -1,7 +1,36 @@
 \begin{thebibliography}{10}
 
+\bibitem{grapheneroad}
+K.~S. Novoselov, V.~I. Fal{$[$}prime{$]$}ko, L.~Colombo, P.~R. Gellert, M.~G.
+  Schwab, and K.~Kim.
+\newblock A roadmap for graphene.
+\newblock {\em Nature}, 490(7419):192--200, 10 2012.
+
+\bibitem{mobilitybog}
+L.~Solymar and D.~Walsh.
+\newblock {\em Electrical properties of materials, EIGHTH EDITION}.
+\newblock OXFORD UNIVERSITY PRESS, 2010.
+
+\bibitem{RevModPhys.81.109}
+A.~H. Castro~Neto, F.~Guinea, N.~M.~R. Peres, K.~S. Novoselov, and A.~K. Geim.
+\newblock The electronic properties of graphene.
+\newblock {\em Rev. Mod. Phys.}, 81:109--162, Jan 2009.
+
+\bibitem{kibler2003preparation}
+Ludwig~A Kibler.
+\newblock Preparation and characterization of noble metal single crystal
+  electrode surfaces.
+\newblock {\em Short Course Held at the 51st and 53rd Annual Mtg of the ISE},
+  2003.
+
+\bibitem{1367-2630-10-4-043033}
+Alpha~T N'Diaye, Johann Coraux, Tim~N Plasa, Carsten Busse, and Thomas Michely.
+\newblock Structure of epitaxial graphene on ir(111).
+\newblock {\em New Journal of Physics}, 10(4):043033, 2008.
+
 \bibitem{Line}
 Line Kyhl.
+\newblock Figures made by line kyhl.
 
 \bibitem{e40134a5a1aa4cb69ba806c02cd8e327}
 Richard Balog, Bjarke Jørgensen, Louis Nilsson, Mie Andersen, Emile Rienks,
@@ -17,6 +46,25 @@ Line Kyhl, Richard Balog, Thierry Angot, Liv Hornek\ae{}r, and R\'egis Bisson.
   loss spectroscopy study of the vibrational spectrum.
 \newblock {\em Phys. Rev. B}, 93:115403, Mar 2016.
 
+\bibitem{PhysRevLett.60.337}
+R.~I. Hall, I.~\ifmmode \check{C}\else \v{C}\fi{}ade\ifmmode~\check{z}\else
+  \v{z}\fi{}, M.~Landau, F.~Pichou, and C.~Schermann.
+\newblock Vibrational excitation of hydrogen via recombinative desorption of
+  atomic hydrogen gas on a metal surface.
+\newblock {\em Phys. Rev. Lett.}, 60:337--340, Jan 1988.
+
+\bibitem{:/content/aip/journal/jap/93/6/10.1063/1.1555701}
+Y.~Miura, H.~Kasai, W.~Diño, H.~Nakanishi, and T.~Sugimoto.
+\newblock First principles studies for the dissociative adsorption of h2 on
+  graphene.
+\newblock {\em Journal of Applied Physics}, 93(6), 2003.
+
+\bibitem{PhysRevLett.60.341}
+P.~J. Eenshuistra, J.~H.~M. Bonnie, J.~Los, and H.~J. Hopman.
+\newblock Observation of exceptionally high vibrational excitation of hydrogen
+  molecules formed by wall recombination.
+\newblock {\em Phys. Rev. Lett.}, 60:341--344, Jan 1988.
+
 \bibitem{aarhusSTM}
 The aarhus stm.
 \newblock
@@ -28,6 +76,50 @@ Gerd Binnig and Heinrich Rohrer.
 \newblock Scanning tunneling microscopy\char22{}from birth to adolescence.
 \newblock {\em Rev. Mod. Phys.}, 59:615--625, Jul 1987.
 
+\bibitem{STMbog}
+DAWN BONNELL.
+\newblock {\em Scanning Probe Microscopy and Spectroscopy: Theory, Techniques,
+  and Applications, 2nd Edition}.
+\newblock WILEY-VCH, 2001.
+
+\bibitem{PhysRevLett.49.57}
+G.~Binnig, H.~Rohrer, Ch. Gerber, and E.~Weibel.
+\newblock Surface studies by scanning tunneling microscopy.
+\newblock {\em Phys. Rev. Lett.}, 49:57--61, Jul 1982.
+
+\bibitem{TPDbog}
+W.A. Steele, G.~Zgrablich, and W.~Rudzinski.
+\newblock {\em Volume 104. Equilibria and Dynamics of Gas Adsorption on
+  Heterogeneous Solid Surfaces}.
+\newblock Elsevier Science, 1996.
+
+\bibitem{desorpslides}
+Desorption lecture slides.
+\newblock
+  \url{http://th.fhi-berlin.mpg.de/th/lectures/summer_term_2006/6_desorption.pdf}.
+\newblock Accessed: 2016-06.
+
+\bibitem{TPDekstra}
+Sven~L.M. Schroeder and Michael Gottfried.
+\newblock Temperature-programmed desorption (tpd) thermal desorption
+  spectroscopy (tds), 2002.
+
+\bibitem{berlinslides}
+Thermal analysis - tds.
+\newblock
+  \url{http://www.fhi-berlin.mpg.de/acnew/department/pages/teaching/pages/teaching__wintersemester__2005_2006/ranke_tds_251105.pdf}.
+\newblock Accessed: 2016-06.
+
+\bibitem{MLkilde}
+Surface chemistry.
+\newblock http://www.chemistryexplained.com/St-Te/Surface-Chemistry.html.
+\newblock Accessed: 2016-06.
+
+\bibitem{HABS}
+Hydrogen atom beam source - datasheet.
+\newblock \url{http://www.mbe-komponenten.de/products/pdf/data-sheet-habs.pdf}.
+\newblock Accessed: 2016-06.
+
 \bibitem{1367-2630-11-2-023006}
 Johann Coraux, Alpha~T N'Diaye, Martin Engler, Carsten Busse, Dirk Wall, Niemma
   Buckanie, Frank-J~Meyer zu~Heringdorf, Raoul van Gastel, Bene Poelsema, and
@@ -35,15 +127,42 @@ Johann Coraux, Alpha~T N'Diaye, Martin Engler, Carsten Busse, Dirk Wall, Niemma
 \newblock Growth of graphene on ir(111).
 \newblock {\em New Journal of Physics}, 11(2):023006, 2009.
 
-\bibitem{1367-2630-10-4-043033}
-Alpha~T N'Diaye, Johann Coraux, Tim~N Plasa, Carsten Busse, and Thomas Michely.
-\newblock Structure of epitaxial graphene on ir(111).
-\newblock {\em New Journal of Physics}, 10(4):043033, 2008.
+\bibitem{pyrometer}
+Pyrometer handbook.
+\newblock Work of IMPAC Infrared GmbH.
+\newblock 2004.
+
+\bibitem{coraux2008structural}
+Johann Coraux, Alpha~T N'Diaye, Carsten Busse, and Thomas Michely.
+\newblock Structural coherency of graphene on ir (111).
+\newblock {\em Nano letters}, 8(2):565--570, 2008.
 
 \bibitem{Jakobunpublished}
 Jakob Jørgensen, Antonija~Grubisic Cabo, Line~Kyhl Hansen, Richard Balog,
   Philip Hofmann, and Liv Hornekær.
 \newblock Unpublished.
+
+\bibitem{Lineunpublished}
+Line Kyhl, Régis Bisson, Richard Balog, Michael Groves, Andrew Cassidy, Jill
+  Miwa, Jakob Jørgensen, Antonija~Grubisic Cabo, Susanne Halkjær, Jan
+  Knudsen, Samuli Urpelainen, Hendrik Bluhm, Thierry Angot, Philip Hofmann,
+  Bjørk Hammer, and Liv Hornekær.
+\newblock Unpublished.
+
+\bibitem{balog2013controlling}
+Richard Balog, Mie Andersen, Bjarke J{\o}rgensen, Zeljko Sljivancanin, Bj{\o}rk
+  Hammer, Alessandro Baraldi, Rosanna Larciprete, Philip Hofmann, Liv
+  Hornek{\ae}r, and Silvano Lizzit.
+\newblock Controlling hydrogenation of graphene on ir (111).
+\newblock {\em ACS nano}, 7(5):3823--3832, 2013.
+
+\bibitem{hornekaer2006metastable}
+Liv Hornek{\ae}r, {\v{Z}}~{\v{S}}ljivan{\v{c}}anin, W~Xu, R~Otero, E~Rauls,
+  Ivan Stensgaard, Erik L{\ae}gsgaard, Bj{\o}rk Hammer, and Flemming
+  Besenbacher.
+\newblock Metastable structures and recombination pathways for atomic hydrogen
+  on the graphite (0001) surface.
+\newblock {\em Physical review letters}, 96(15):156104, 2006.
 
 \bibitem{PhysRevB.79.195429}
 J.~\ifmmode~\check{C}\else \v{C}\fi{}ervenka and C.~F.~J. Flipse.

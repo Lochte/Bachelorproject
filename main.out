@@ -1,31 +1,34 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
 \BOOKMARK [0][-]{chapter.2}{Graphene}{}% 2
 \BOOKMARK [1][-]{section.2.1}{Graphene}{chapter.2}% 3
-\BOOKMARK [1][-]{section.2.2}{Graphene on Ir}{chapter.2}% 4
-\BOOKMARK [1][-]{section.2.3}{Hydrogenation of graphene using atomic deuterium}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.4}{Hydrogenation of graphene using vibrationally excited deuterium}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Graphene on Ir\(111\)}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Hydrogenation of graphene on Ir\(111\) using atomic deuterium}{chapter.2}% 5
+\BOOKMARK [2][-]{subsection.2.3.1}{Formation of Vibrationally Excited Deuterium}{section.2.3}% 6
 \BOOKMARK [0][-]{chapter.3}{Techniques}{}% 7
-\BOOKMARK [1][-]{section.3.1}{Scanning Tunnelling Microscopy - STM}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.1}{Scanning Tunneling Microscopy - STM}{chapter.3}% 8
 \BOOKMARK [1][-]{section.3.2}{Temperature Programmed Desorption - TPD}{chapter.3}% 9
 \BOOKMARK [1][-]{section.3.3}{Low Energy Electron Diffraction - LEED}{chapter.3}% 10
 \BOOKMARK [0][-]{chapter.4}{Experimental Approach}{}% 11
 \BOOKMARK [1][-]{section.4.1}{The Coal Chamber}{chapter.4}% 12
-\BOOKMARK [1][-]{section.4.2}{STM imaging and D2 dosage}{chapter.4}% 13
-\BOOKMARK [1][-]{section.4.3}{TPD}{chapter.4}% 14
-\BOOKMARK [0][-]{chapter.5}{Results}{}% 15
-\BOOKMARK [1][-]{section.5.1}{Graphene on Ir\(111\)}{chapter.5}% 16
-\BOOKMARK [1][-]{section.5.2}{D2 on graphene}{chapter.5}% 17
-\BOOKMARK [2][-]{subsection.5.2.1}{Full hydrogen coverage}{section.5.2}% 18
-\BOOKMARK [2][-]{subsection.5.2.2}{1745\260C dose}{section.5.2}% 19
-\BOOKMARK [2][-]{subsection.5.2.3}{1593\260C dose}{section.5.2}% 20
-\BOOKMARK [2][-]{subsection.5.2.4}{1343\260C dose}{section.5.2}% 21
-\BOOKMARK [1][-]{section.5.3}{TPD measurements}{chapter.5}% 22
-\BOOKMARK [2][-]{subsection.5.3.1}{Atomic and molecular D2}{section.5.3}% 23
-\BOOKMARK [1][-]{section.5.4}{Graphene bilayered sample}{chapter.5}% 24
-\BOOKMARK [2][-]{subsection.5.4.1}{TPD of bilayered sample}{section.5.4}% 25
-\BOOKMARK [2][-]{subsection.5.4.2}{STM images of bilayers}{section.5.4}% 26
-\BOOKMARK [2][-]{subsection.5.4.3}{LEED of bilayered sample}{section.5.4}% 27
-\BOOKMARK [0][-]{chapter.6}{Conclusion and future perspectives}{}% 28
-\BOOKMARK [1][-]{section.6.1}{conclusion and future perspectives}{chapter.6}% 29
-\BOOKMARK [0][-]{appendix.A}{Additional figures}{}% 30
-\BOOKMARK [0][-]{section*.20}{Bibliography}{}% 31
+\BOOKMARK [1][-]{section.4.2}{STM Imaging and D2 Dosage}{chapter.4}% 13
+\BOOKMARK [2][-]{subsection.4.2.1}{STM Calibration}{section.4.2}% 14
+\BOOKMARK [2][-]{subsection.4.2.2}{D2 Dosage}{section.4.2}% 15
+\BOOKMARK [2][-]{subsection.4.2.3}{Sample Annealing and Graphene Repair}{section.4.2}% 16
+\BOOKMARK [1][-]{section.4.3}{TPD}{chapter.4}% 17
+\BOOKMARK [0][-]{chapter.5}{Results}{}% 18
+\BOOKMARK [1][-]{section.5.1}{Graphene on Ir\(111\)}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.2}{D2 on Graphene}{chapter.5}% 20
+\BOOKMARK [2][-]{subsection.5.2.1}{Full Hydrogen Coverage}{section.5.2}% 21
+\BOOKMARK [2][-]{subsection.5.2.2}{1745\260C dose}{section.5.2}% 22
+\BOOKMARK [2][-]{subsection.5.2.3}{1593\260C dose}{section.5.2}% 23
+\BOOKMARK [2][-]{subsection.5.2.4}{1343\260C dose}{section.5.2}% 24
+\BOOKMARK [1][-]{section.5.3}{TPD measurements}{chapter.5}% 25
+\BOOKMARK [2][-]{subsection.5.3.1}{Atomic and molecular D2 - single layered sample}{section.5.3}% 26
+\BOOKMARK [1][-]{section.5.4}{Graphene bilayered sample}{chapter.5}% 27
+\BOOKMARK [2][-]{subsection.5.4.1}{TPD of bilayered sample}{section.5.4}% 28
+\BOOKMARK [2][-]{subsection.5.4.2}{STM images of bilayers}{section.5.4}% 29
+\BOOKMARK [2][-]{subsection.5.4.3}{LEED of bilayered sample}{section.5.4}% 30
+\BOOKMARK [0][-]{chapter.6}{Conclusion and future perspectives}{}% 31
+\BOOKMARK [1][-]{section.6.1}{conclusion and future perspectives}{chapter.6}% 32
+\BOOKMARK [0][-]{appendix.A}{Additional figures}{}% 33
+\BOOKMARK [0][-]{section*.25}{Bibliography}{}% 34

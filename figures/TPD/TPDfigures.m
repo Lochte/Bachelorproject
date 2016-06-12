@@ -57,19 +57,20 @@ TPDplot('050516IrSorenDdose1hour2',kalifit.p1,kalifit.p2)
 
 figure
 TPDplottemp('050516IrSorenD2dose1hour2',kalifit.p1,kalifit.p2,'b',2)
-hold on 
+
+figure
 TPDplottemp('050516IrSorenD2dose1hour',kalifit.p1,kalifit.p2,'g',2)
-legend({'Gr/Ir-1740C dose-D2-#1' 'Gr/Ir-1740C dose-D2-#2'},'Location','NorthWest')
-print(['050516IrSorenD2dose1hour' 'temp'],'-dpng','-r200')
+%legend({'Gr/Ir-1740C dose-D2-#1' 'Gr/Ir-1740C dose-D2-#2'},'Location','NorthWest')
+%print(['050516IrSorenD2dose1hour' 'temp'],'-dpng','-r200')
 
 
 
 figure
 TPDplottemp('050516IrSorenDdose1hour2',kalifit.p1,kalifit.p2,'b',2)
-hold on
+figure
 TPDplottemp('050516IrSorenDdose1hour',kalifit.p1,kalifit.p2,'g',2)
-legend({'Gr/Ir-1740C dose-D-#1' 'Gr/Ir-1740C dose-D-#2'},'Location','NorthWest')
-print(['050516IrSorenDdose1hour' 'temp'],'-dpng','-r200')
+%legend({'Gr/Ir-1740C dose-D-#1' 'Gr/Ir-1740C dose-D-#2'},'Location','NorthWest')
+%print(['050516IrSorenDdose1hour' 'temp'],'-dpng','-r200')
 
 
 
