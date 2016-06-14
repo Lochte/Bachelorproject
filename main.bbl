@@ -28,6 +28,19 @@ Alpha~T N'Diaye, Johann Coraux, Tim~N Plasa, Carsten Busse, and Thomas Michely.
 \newblock Structure of epitaxial graphene on ir(111).
 \newblock {\em New Journal of Physics}, 10(4):043033, 2008.
 
+\bibitem{PhysRevB.93.115403}
+Line Kyhl, Richard Balog, Thierry Angot, Liv Hornek\ae{}r, and R\'egis Bisson.
+\newblock Hydrogenated graphene on ir(111): A high-resolution electron energy
+  loss spectroscopy study of the vibrational spectrum.
+\newblock {\em Phys. Rev. B}, 93:115403, Mar 2016.
+
+\bibitem{voloshina2013electronic}
+Elena~N Voloshina, Edoardo Fertitta, Andreas Garhofer, Florian Mittendorfer,
+  Mikhail Fonin, Andreas Thissen, and Yu~S Dedkov.
+\newblock Electronic structure and imaging contrast of graphene moir{\'e} on
+  metals.
+\newblock {\em Scientific reports}, 3, 2013.
+
 \bibitem{Line}
 Line Kyhl.
 \newblock Figures made by line kyhl.
@@ -39,12 +52,6 @@ Richard Balog, Bjarke Jørgensen, Louis Nilsson, Mie Andersen, Emile Rienks,
   Pedersen, Philip Hofmann, and Liv Hornekaer.
 \newblock Bandgap opening in graphene induced by patterned hydrogen adsorption.
 \newblock {\em Nature Materials}, 9(4):315--319, 4 2010.
-
-\bibitem{PhysRevB.93.115403}
-Line Kyhl, Richard Balog, Thierry Angot, Liv Hornek\ae{}r, and R\'egis Bisson.
-\newblock Hydrogenated graphene on ir(111): A high-resolution electron energy
-  loss spectroscopy study of the vibrational spectrum.
-\newblock {\em Phys. Rev. B}, 93:115403, Mar 2016.
 
 \bibitem{PhysRevLett.60.337}
 R.~I. Hall, I.~\ifmmode \check{C}\else \v{C}\fi{}ade\ifmmode~\check{z}\else
@@ -109,6 +116,11 @@ Thermal analysis - tds.
 \newblock
   \url{http://www.fhi-berlin.mpg.de/acnew/department/pages/teaching/pages/teaching__wintersemester__2005_2006/ranke_tds_251105.pdf}.
 \newblock Accessed: 2016-06.
+
+\bibitem{held1974low}
+Georg Held.
+\newblock Low-energy electron diffraction.
+\newblock 1974.
 
 \bibitem{MLkilde}
 Surface chemistry.

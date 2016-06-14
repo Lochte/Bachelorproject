@@ -1,0 +1,12 @@
+# Fdb version 3
+["pdflatex"] 1465766625 "theory.tex" "theory.pdf" "theory" 1465766625
+  "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1428852030 31983 18aeec08f48baa3cf3508d538dd5f459 ""
+  "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1445877338 3849860 0e18632e70203e31527fd8cc067e8fcd ""
+  "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
+  "theory.aux" 1465765899 6171 921e078fe7b5608c2ea09d0258a58277 ""
+  "theory.tex" 1465714350 11824 444b73541e158c55fe5ab3d30f1b9795 ""
+  (generated)
+  "theory.log"
+  "theory.pdf"

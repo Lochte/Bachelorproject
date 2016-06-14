@@ -26,13 +26,11 @@ print(['kalibrering'],'-dpng','-r200')
 
 %% Plots
 
-figure
 TPDplot('GrIr1740CD2',kalifit.p1,kalifit.p2)
 
-figure
 TPDplot('GrIr1740CD2longanneal',kalifit.p1,kalifit.p2)
 
-figure
+
 TPDplot('GrIr1740CD2_2504',kalifit.p1,kalifit.p2)
 
 figure
@@ -104,6 +102,10 @@ D2counts = TPDdata.data(:,2);
 temp = TPDdata.data(:,3)*kal1+kal2;
 
 
+fig = figure;
+left_color = [0 1 0];
+right_color = [0 0 1];
+set(fig,'defaultAxesColorOrder',[left_color; right_color]);
 
 plot(Timems,D2counts,'b')
 yyaxis left

@@ -6,7 +6,7 @@
 \contentsline {subsection}{\numberline {2.3.1}Formation of Vibrationally Excited Deuterium}{5}{subsection.2.3.1}
 \contentsline {chapter}{\chapternumberline {3}Techniques}{7}{chapter.3}
 \contentsline {section}{\numberline {3.1}Scanning Tunneling Microscopy - STM}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Temperature Programmed Desorption - TPD}{9}{section.3.2}
+\contentsline {section}{\numberline {3.2}Temperature Programmed Desorption - TPD}{8}{section.3.2}
 \contentsline {section}{\numberline {3.3}Low Energy Electron Diffraction - LEED}{10}{section.3.3}
 \contentsline {chapter}{\chapternumberline {4}Experimental Approach}{11}{chapter.4}
 \contentsline {section}{\numberline {4.1}The Coal Chamber}{11}{section.4.1}
@@ -18,17 +18,16 @@
 \contentsline {chapter}{\chapternumberline {5}Results}{17}{chapter.5}
 \contentsline {section}{\numberline {5.1}Graphene on Ir(111)}{17}{section.5.1}
 \contentsline {section}{\numberline {5.2}D$_2$ on Graphene}{18}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Full Hydrogen Coverage}{18}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}1745\degree C dose}{20}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}1593\degree C dose}{20}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}1343\degree C dose}{21}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}TPD measurements}{22}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Atomic and molecular D2 - single layered sample}{22}{subsection.5.3.1}
-\contentsline {section}{\numberline {5.4}Graphene bilayered sample}{23}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}TPD of bilayered sample}{23}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}STM images of bilayers}{25}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}LEED of bilayered sample}{27}{subsection.5.4.3}
-\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{29}{chapter.6}
-\contentsline {section}{\numberline {6.1}conclusion and future perspectives}{29}{section.6.1}
-\contentsline {appendix}{\chapternumberline {A}Additional figures}{30}{appendix.A}
+\contentsline {subsection}{\numberline {5.2.1}Full Hydrogen Coverage}{19}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}1745\degree C Dose}{20}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}1593\degree C Dose}{21}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}1343\degree C Dose}{22}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}TPD measurements}{23}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Atomic and molecular D2 - single layered sample}{23}{subsection.5.3.1}
+\contentsline {section}{\numberline {5.4}Graphene bilayered sample}{25}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}TPD of bilayered sample}{25}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}STM images of bilayers}{26}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}LEED of bilayered sample}{28}{subsection.5.4.3}
+\contentsline {chapter}{\chapternumberline {6}Conclusion and future perspectives}{30}{chapter.6}
+\contentsline {section}{\numberline {6.1}conclusion and future perspectives}{30}{section.6.1}
 \contentsline {chapter}{Bibliography}{31}{section*.25}
